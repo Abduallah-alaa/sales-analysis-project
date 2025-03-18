@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains a data analysis project focused on sales data obtained from [Kaggle](https://kaggle.com).
-- **Dataset used**: Superstore Sales / Walmart Sales Forecasting (اختر ما يناسبك)
+- **Dataset used**: Superstore Sales 
 - **Goal**: Exploratory Data Analysis (EDA), data cleaning, feature engineering, and basic predictive modeling (if needed).
 
 ## Project Steps
@@ -13,7 +13,7 @@ This repository contains a data analysis project focused on sales data obtained 
 5. Insights & Conclusions
 
 ## Dataset Details
-- **Source**: [Kaggle Dataset Link](ضع هنا رابط الصفحة في Kaggle)
+- **Source**: [[Kaggle Dataset Link](ضع هنا رابط الصفحة في Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
 - **Columns**: وصف للأعمدة الأساسية مثل تاريخ البيع، السعر، المنطقة، إلخ.
 
 ## Tools
